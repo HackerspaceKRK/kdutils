@@ -1,6 +1,8 @@
 #ifndef __KUTILS_H__
 #define __KUTILS_H__
 
+#define _GNU_SOURCE
+
 #include <stdint.h>
 #include <string>
 #include <vector>
